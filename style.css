@@ -2797,12 +2797,12 @@ body.app_version .dev-list .widget-title small{
     }
 
     .mySlides{
-        height: 150px;
+        height: 120px;
         z-index: 150;
     }
 
     .home-page-slider .w3-button {
-        margin-top: 0px;
+        margin-top: -10px;
     }
 }
 
