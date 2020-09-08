@@ -1715,6 +1715,13 @@ hr.invis1 {
     color: black;
 }
 
+.bio_ruben {
+    font-size: 13px !important;
+    text-align: left;
+    font-weight: 300;
+    color: black;
+}
+
 
 /*------------------------------------------------------------------
     FEATURES
@@ -2775,6 +2782,15 @@ body.app_version .dev-list .widget-title small{
 }
 
 @media (max-width: 700px) {
+
+    .bio_ruben {
+        font-size: 13px !important;
+        text-align: left;
+        font-weight: 300;
+        color: black;
+        margin-top: -80px;
+    }
+
     .news_pic1{
         display: none;
     }
