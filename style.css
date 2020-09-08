@@ -2775,6 +2775,13 @@ body.app_version .dev-list .widget-title small{
 }
 
 @media (max-width: 700px) {
+    .news_pic1{
+        display: none;
+    }
+
+    .news_pic2{
+        display: none;
+    }
     .section_title{
         font-size: 22px;
         font-weight: bold;
@@ -2822,6 +2829,15 @@ body.app_version .dev-list .widget-title small{
 }
 
 @media (max-width: 1200px) and  (min-width: 700px) {
+
+    .news_pic1{
+        display: none;
+    }
+
+    .news_pic2{
+        display: none;
+    }
+
     .section_title{
         font-size: 22px;
         font-weight: bold;
@@ -2902,6 +2918,15 @@ body.app_version .dev-list .widget-title small{
 .news_text{
     font-size: 12px;
     margin-top: 7px;
+    font-family: 'Lato', sans-serif !important;
+    /*font-weight: 400 !important;*/
+}
+
+.news_text:hover{
+    font-size: 12px;
+    margin-top: 7px;
+    color: #555555;
+
 }
 
 .news_pic1{
