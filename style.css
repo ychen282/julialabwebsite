@@ -30,6 +30,11 @@ body {
     /*font-weight: 100;*/
 }
 
+p{
+    font-family: 'Lato', sans-serif;
+}
+
+
 body.demos .section {
     background: url(images/bg.png) repeat top center #f2f3f5;
 }
@@ -1692,12 +1697,22 @@ hr.invis1 {
 
 .title{
     margin-top: -5px;
+    font-family: 'Times New Roman', sans-serif;
 }
 
 .title_below{
     color: #77a8a8;
     font-size: 16px;
+    font-weight: bold;
     margin-top: -15px;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.bio {
+    font-size: 13px !important;
+    text-align: left;
+    font-weight: 300;
+    color: black;
 }
 
 
@@ -2862,4 +2877,45 @@ body.app_version .dev-list .widget-title small{
 .publication_title:hover{
     color: #555555;
     font-weight: 400;
+}
+
+.news_item{
+    display: flex;
+    flex-direction: row;
+}
+
+.news_content{
+    width: 80%;
+    position: relative;
+    left: 40px;
+    display: flex;
+    flex-direction: column;
+    top: -5px;
+}
+
+.news_source{
+    color: dodgerblue;
+    font-size: 10px;
+    margin-top: -15px;
+}
+
+.news_text{
+    font-size: 12px;
+    margin-top: -5px;
+}
+
+.news_pic1{
+    width: 120px;
+    height: 90px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.news_pic2{
+    width: 120px;
+    height: 48px;
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
