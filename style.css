@@ -1696,13 +1696,14 @@ hr.invis1 {
 }
 
 .title{
+    font-size: 16px;
     margin-top: -5px;
     font-family: 'Times New Roman', sans-serif;
 }
 
 .title_below{
     color: #77a8a8;
-    font-size: 16px;
+    font-size: 16px !important;
     font-weight: bold;
     margin-top: -15px;
     font-family: 'Times New Roman', sans-serif;
