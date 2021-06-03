@@ -1710,6 +1710,13 @@ hr.invis1 {
     font-family: 'Times New Roman', sans-serif;
 }
 
+.title_below2{
+    font-size: 13px !important;
+    font-weight: bold;
+    margin-top: -15px;
+    font-family: 'Times New Roman', sans-serif;
+}
+
 .bio {
     font-size: 13px !important;
     text-align: left;
