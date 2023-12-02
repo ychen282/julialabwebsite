@@ -25,13 +25,13 @@
 body {
     color: 555555;
     font-size: 15px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.80857;
     /*font-weight: 100;*/
 }
 
 p{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 
@@ -322,7 +322,7 @@ a img.aligncenter {
 	font-weight: bold;
 	position: relative;
 	font-size: 23px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .header-nav .navbar-brand span {
     width: 6px;
@@ -377,7 +377,7 @@ a img.aligncenter {
 	font-size: 16px;
 	border-bottom: 3px solid white;
     color: grey;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 300;
 }
 
@@ -949,7 +949,7 @@ body.app_version .header_style_01.fixed-menu{
 }
 .testimonial .description:before{
     content: "\f10d";
-    font-family:'Lato', sans-serif;
+    font-family:'Poppins', sans-serif;
     font-weight: 900;
     position: absolute;
     top: 0;
@@ -987,7 +987,7 @@ body.app_version .header_style_01.fixed-menu{
 .owl-buttons .owl-prev:before,
 .owl-buttons .owl-next:before{
     content: "\f104";
-    font-family:'Lato', sans-serif;
+    font-family:'Poppins', sans-serif;
     font-weight: 900;
     font-size: 60px;
     font-weight: 900;
@@ -1108,7 +1108,7 @@ body.app_version .header_style_01.fixed-menu{
 .accordion .mb-0 a:before,
 .accordion .mb-0 a.collapsed:before{
     content: "\f068";
-    font-family:'Lato', sans-serif;
+    font-family:'Poppins', sans-serif;
     font-weight: 900;
     width: 25px;
     height: 25px;
@@ -1296,7 +1296,7 @@ body.app_version .header_style_01.fixed-menu{
 
 .icon-wrapper p small:after {
     content: "\f105";
-    font-family:'Lato', sans-serif;
+    font-family:'Poppins', sans-serif;
     margin-left: 5px;
     font-size: 11px;
 }
@@ -2756,7 +2756,7 @@ body.app_version .dev-list .widget-title small{
 .project_box_title{
     font-weight: bold;
     color: #555555;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .section_title{
@@ -2906,7 +2906,7 @@ body.app_version .dev-list .widget-title small{
 
 .publications {
     font-size: 16px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 300
 }
 
@@ -2943,7 +2943,7 @@ body.app_version .dev-list .widget-title small{
 .news_text{
     font-size: 12px;
     margin-top: 7px;
-    font-family: 'Lato', sans-serif !important;
+    font-family: 'Poppins', sans-serif !important;
     /*font-weight: 400 !important;*/
 }
 
